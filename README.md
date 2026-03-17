@@ -1,12 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eAZLlGv8)
 # Git zadaca – branch, pull request & merge conflict
 
 Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Lejla Kadušić
 
-GitHub username:
+GitHub username: Lejla-Kadusic
 
 ---
 
@@ -21,6 +22,9 @@ Cilj ovog zadatka je da uvježbate osnovne Git operacije:
 - rješavanje merge konflikta
 
 ---
+## Uvod 
+
+Ja sam Lejla Kadušić. Dolazim iz Maglaja i volim da učim nove stvari.
 
 ## Koraci zadatka
 
@@ -111,5 +115,4 @@ Repozitorij treba sadržavati:
 - 1 riješen merge konflikt
 
 ---
-
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
