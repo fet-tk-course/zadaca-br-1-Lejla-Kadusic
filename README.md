@@ -22,6 +22,9 @@ Cilj ovog zadatka je da uvježbate osnovne Git operacije:
 - rješavanje merge konflikta
 
 ---
+## Uvod 
+
+Ja sam Lejla Kadušić. Dolazim iz Maglaja i volim da učim nove stvari.
 
 ## Koraci zadatka
 
