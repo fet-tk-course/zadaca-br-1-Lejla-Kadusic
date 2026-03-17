@@ -115,5 +115,4 @@ Repozitorij treba sadržavati:
 - 1 riješen merge konflikt
 
 ---
-
 Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
